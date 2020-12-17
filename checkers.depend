@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1590405949 source:c:\users\schroodinger\documents\checkers\checkers.cpp
+	"checkers.h"
+
+1590405782 c:\users\schroodinger\documents\checkers\checkers.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<time.h>
+	<string>
+
+1590405955 source:c:\users\schroodinger\documents\checkers\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<time.h>
+	<string>
+	"checkers.h"
+
